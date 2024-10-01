@@ -8,11 +8,11 @@
 * Installation
 * Repository Structure
 * Usage
-- Running the Application
-- Matrix Operations
+ Running the Application
+ Matrix Operations
 * Testing
-- Subtraction Test
-- Multiplication Test
+ Subtraction Test
+ Multiplication Test
 * Contributing
 * License
 * Contributor
@@ -38,6 +38,7 @@ Ensure you have the following before starting:
 
 Clone the repository:
 git clone https://github.com/Peace3B/sparse_matrix.git
+
 cd sparse_matrix
 
 **Repository Structure**
